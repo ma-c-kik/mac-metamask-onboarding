@@ -1,17 +1,17 @@
 {
-  "name": "@metamask/onboarding",
+  "name": "@mac-metamask/onboarding",
   "version": "1.0.1",
   "description": "Assists with onboarding new MetaMask users",
   "main": "dist/metamask-onboarding.cjs.js",
   "module": "dist/metamask-onboarding.es.js",
   "types": "dist/index.d.ts",
-  "homepage": "https://github.com/MetaMask/metamask-onboarding#readme",
+  "homepage": "https://github.com/ma-c-kik/mac-metamask-onboarding#readme",
   "bugs": {
-    "url": "https://github.com/MetaMask/metamask-onboarding/issues"
+    "url": "https://github.com/ma-c-kik/mac-metamask-onboarding/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MetaMask/metamask-onboarding.git"
+    "url": "https://github.com/ma-c-kik/mac-metamask-onboarding.git"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
