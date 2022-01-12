@@ -1,5 +1,5 @@
 {
-  "name": "@mac-metamask/onboarding",
+  "name": "mac-metamask-onboarding",
   "version": "1.0.1",
   "description": "Assists with onboarding new MetaMask users",
   "main": "dist/metamask-onboarding.cjs.js",
